@@ -108,7 +108,7 @@ function App() {
           >
             <span className="site-brand-mark">V</span>
 
-            <span className="site-brand-name">VALYX</span>
+            <span className="site-brand-name">VALYNX</span>
           </button>
 
           <nav className={`desktop-nav ${mobileMenu ? "open" : ""}`}>
@@ -176,7 +176,7 @@ function App() {
               </h1>
 
               <p className="hero-description">
-                VALYX is a native Windows application designed to help
+                VALYNX is a native Windows application designed to help
                 VALORANT players understand their own gameplay through
                 detailed personal statistics and historical match analysis.
               </p>
@@ -187,7 +187,7 @@ function App() {
                   type="button"
                   onClick={() => scrollTo("preview")}
                 >
-                  Explore VALYX
+                  Explore VALYNX
                   <span>→</span>
                 </button>
 
@@ -231,7 +231,7 @@ function App() {
               </h2>
 
               <p className="large-text">
-                VALYX turns your completed VALORANT matches into a personal
+                VALYNX turns your completed VALORANT matches into a personal
                 performance history. Instead of focusing on what other
                 players are doing, it gives you the information needed to
                 review your own games and understand your progress.
@@ -248,7 +248,7 @@ function App() {
           <div className="section-container">
             <div className="section-heading">
               <div>
-                <div className="section-kicker">THE VALYX EXPERIENCE</div>
+                <div className="section-kicker">THE VALYNX EXPERIENCE</div>
 
                 <h2>
                   Built around
@@ -271,7 +271,7 @@ function App() {
                   <span />
                 </div>
 
-                <span className="browser-title">VALYX — Dashboard</span>
+                <span className="browser-title">VALYNX — Dashboard</span>
               </div>
 
               <div className="dashboard-preview">
@@ -365,7 +365,7 @@ function App() {
               </div>
 
               <p>
-                VALYX brings your historical match information together in one
+                VALYNX brings your historical match information together in one
                 focused place.
               </p>
             </div>
@@ -455,7 +455,7 @@ function App() {
               </div>
 
               <p>
-                VALYX uses Riot Sign On and player opt-in to access permitted
+                VALYNX uses Riot Sign On and player opt-in to access permitted
                 account and VALORANT data.
               </p>
             </div>
@@ -470,7 +470,7 @@ function App() {
               <Step
                 number="02"
                 title="Opt in"
-                text="Explicitly authorize VALYX to access the data required for the application."
+                text="Explicitly authorize VALYNX to access the data required for the application."
               />
 
               <Step
@@ -506,7 +506,7 @@ function App() {
 
             <div className="privacy-content">
               <p className="privacy-intro">
-                VALYX is designed around historical analysis and personal
+                VALYNX is designed around historical analysis and personal
                 improvement rather than providing an advantage during an
                 active match.
               </p>
@@ -524,7 +524,7 @@ function App() {
 
                 <PrivacyItem
                   title="No gameplay automation"
-                  text="VALYX does not automate gameplay, interact with game memory, manipulate Vanguard or modify the VALORANT client."
+                  text="VALYNX does not automate gameplay, interact with game memory, manipulate Vanguard or modify the VALORANT client."
                 />
 
                 <PrivacyItem
@@ -544,7 +544,7 @@ function App() {
           <div className="cta-decoration">V</div>
 
           <div className="section-container cta-content">
-            <div className="section-kicker">VALYX</div>
+            <div className="section-kicker">VALYNX</div>
 
             <h2>
               Your matches.
@@ -577,7 +577,7 @@ function App() {
           <div className="footer-brand">
             <div className="site-brand">
               <span className="site-brand-mark">V</span>
-              <span className="site-brand-name">VALYX</span>
+              <span className="site-brand-name">VALYNX</span>
             </div>
 
             <p>Your matches. Your stats. Your progress.</p>
@@ -617,10 +617,10 @@ function App() {
         </div>
 
         <div className="section-container footer-bottom">
-          <p>© 2026 VALYX. All rights reserved.</p>
+          <p>© 2026 VALYNX. All rights reserved.</p>
 
           <p>
-            VALYX isn't endorsed by Riot Games and doesn't reflect the views
+            VALYNX isn't endorsed by Riot Games and doesn't reflect the views
             or opinions of Riot Games or anyone officially involved in
             producing or managing Games properties.
           </p>
@@ -775,7 +775,7 @@ function PreviewSidebar() {
         <span>V</span>
 
         <div>
-          <strong>VALYX</strong>
+          <strong>VALYNX</strong>
           <small>PERSONAL STATS</small>
         </div>
       </div>
